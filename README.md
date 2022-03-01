@@ -1,6 +1,6 @@
 # AWS-Codestar-App
 
-In this project I deployed a sample Node.Js application onto Elasticbeanstalk using Codestar.
+In this project I deployed a sample Node.Js application onto Elasticbeanstalk using Codestar. The code for the application can be obtained using the Node.Js template in Codestar.
 
 Link to Website: http://njsapp.reggiestestdomain.com
 
